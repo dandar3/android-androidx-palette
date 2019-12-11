@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-androidx-palette/tags/1.0.0,androidx-palette,b0da16b15e1c001a1c1adcd5a33d1f83;https://github.com/dandar3/android-androidx-palette;https://github.com/dandar3/android-androidx-palette;branches;tags;trunk;true;82777a67-1498-7591-34c2-ce57b7db7bff;https://github.com/dandar3/android-androidx-palette;;false;;;0"/>
+</provider>
+</psf>
